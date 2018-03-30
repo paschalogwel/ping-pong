@@ -1,0 +1,45 @@
+h1{
+  text-align: center;
+  color: #0B0B0B;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 75px;
+}
+.jumbotron{
+  background-color: #63B4CA;
+}
+.col-md-3{
+  background-color: #5094F7;
+}
+.container-fluid{
+  background-color: #50F7B3;
+}
+h2{
+  font-family: 'Fascinate Inline', cursive;
+  font-size: 60px;
+}
+h3{
+  font-family: 'Faster One', cursive;
+  font-size: 50px;
+}
+p{
+font-family: 'Economica', sans-serif;
+font-size: 35px;
+}
+ol{
+font-size: 30px;
+font-family: 'Patrick Hand', cursive;
+}
+#list{
+font-size: 30px;
+font-family: 'Cabin Sketch', cursive;
+}
+input{
+  font-size: 25px;
+}
+label{
+  font-size: 25px;
+}
+.btn{
+  background-color: #EF02A4;
+  font-size: 20px;
+}

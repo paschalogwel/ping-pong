@@ -2,10 +2,11 @@ h1{
   text-align: center;
   color: #0B0B0B;
   font-family: 'Press Start 2P', cursive;
-  font-size: 75px;
+  font-size: 150px;
 }
 .jumbotron{
   background-color: #63B4CA;
+  overflow: hidden;
 }
 .col-md-3{
   background-color: #5094F7;
@@ -42,4 +43,13 @@ label{
 .btn{
   background-color: #EF02A4;
   font-size: 20px;
+}
+img{
+  width: 15%;
+}
+#you{
+  float: right;
+}
+#me{
+  float: right;
 }
